@@ -1,0 +1,13 @@
+<svg id="Checkmark_Icon_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_48150" data-name="Rectangle 48150" width="18" height="18" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1304" data-name="Mask Group 1304" clip-path="url(#clip-path)">
+    <g id="Group_94669" data-name="Group 94669" transform="translate(3 3)">
+      <path id="Success_Done_Checkmark_Icon" d="M23.5,17.5a6,6,0,1,1-6-6A6.007,6.007,0,0,1,23.5,17.5Z" transform="translate(-11.5 -11.5)" fill="rgba(33,96,181,0.1)"/>
+      <path id="Success_Done_Checkmark_Icon-2" data-name="Success_Done_Checkmark_Icon" d="M19.481,15.583a.451.451,0,0,0-.686,0L16.473,17.9a.393.393,0,0,1-.237.106A.286.286,0,0,1,16,17.9l-1.055-1.055a.405.405,0,0,0-.343-.132.5.5,0,0,0-.343.132.494.494,0,0,0,0,.686l1.636,1.636a.556.556,0,0,0,.343.132.5.5,0,0,0,.343-.132l2.9-2.9A.45.45,0,0,0,19.481,15.583Z" transform="translate(-10.867 -11.055)" fill="#2160b5"/>
+    </g>
+  </g>
+</svg>
